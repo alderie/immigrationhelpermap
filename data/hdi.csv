@@ -1,0 +1,196 @@
+,ISO3,Country,HDI Rank (2021)
+0,AFG,Afghanistan,180.0
+1,AGO,Angola,148.0
+2,ALB,Albania,67.0
+3,AND,Andorra,40.0
+4,ARE,United Arab Emirates,26.0
+5,ARG,Argentina,47.0
+6,ARM,Armenia,85.0
+7,ATG,Antigua and Barbuda,71.0
+8,AUS,Australia,5.0
+9,AUT,Austria,25.0
+10,AZE,Azerbaijan,91.0
+11,BDI,Burundi,187.0
+12,BEL,Belgium,13.0
+13,BEN,Benin,166.0
+14,BFA,Burkina Faso,184.0
+15,BGD,Bangladesh,129.0
+16,BGR,Bulgaria,68.0
+17,BHR,Bahrain,35.0
+18,BHS,Bahamas,55.0
+19,BIH,Bosnia and Herzegovina,74.0
+20,BLR,Belarus,60.0
+21,BLZ,Belize,123.0
+22,BOL,Bolivia,118.0
+23,BRA,Brazil,87.0
+24,BRB,Barbados,70.0
+25,BRN,Brunei,51.0
+26,BTN,Bhutan,127.0
+27,BWA,Botswana,117.0
+28,CAF,Central African Republic,188.0
+29,CAN,Canada,15.0
+30,CHE,Switzerland,1.0
+31,CHL,Chile,42.0
+32,CHN,China,79.0
+33,CIV,Ivory Coast,159.0
+34,CMR,Cameroon,151.0
+35,COD,The Democratic Republic of the Congo,179.0
+36,COG,Congo,153.0
+37,COL,Colombia,88.0
+38,COM,Comoros,156.0
+39,CPV,Cabo Verde,128.0
+40,CRI,Costa Rica,58.0
+41,CUB,Cuba,83.0
+42,CYP,Cyprus,29.0
+43,CZE,Czechia,32.0
+44,DEU,Germany,9.0
+45,DJI,Djibouti,171.0
+46,DMA,Dominica,102.0
+47,DNK,Denmark,6.0
+48,DOM,Dominican Republic,80.0
+49,DZA,Algeria,91.0
+50,ECU,Ecuador,95.0
+51,EGY,Egypt,97.0
+52,ERI,Eritrea,176.0
+53,ESP,Spain,27.0
+54,EST,Estonia,31.0
+55,ETH,Ethiopia,175.0
+56,FIN,Finland,11.0
+57,FJI,Fiji,99.0
+58,FRA,France,28.0
+59,FSM,Micronesia,134.0
+60,GAB,Gabon,112.0
+61,GBR,United Kingdom,18.0
+62,GEO,Georgia,63.0
+63,GHA,Ghana,133.0
+64,GIN,Guinea,182.0
+65,GMB,Gambia,174.0
+66,GNB,Guinea-Bissau,177.0
+67,GNQ,Equatorial Guinea,145.0
+68,GRC,Greece,33.0
+69,GRD,Grenada,68.0
+70,GTM,Guatemala,135.0
+71,GUY,Guyana,108.0
+72,HKG,Hong Kong,4.0
+73,HND,Honduras,137.0
+74,HRV,Croatia,40.0
+75,HTI,Haiti,163.0
+76,HUN,Hungary,46.0
+77,IDN,Indonesia,114.0
+78,IND,India,132.0
+79,IRL,Ireland,8.0
+80,IRN,Iran,76.0
+81,IRQ,Iraq,121.0
+82,ISL,Iceland,3.0
+83,ISR,Israel,22.0
+84,ITA,Italy,30.0
+85,JAM,Jamaica,110.0
+86,JOR,Jordan,102.0
+87,JPN,Japan,19.0
+88,KAZ,Kazakhstan,56.0
+89,KEN,Kenya,152.0
+90,KGZ,Kyrgyzstan,118.0
+91,KHM,Cambodia,146.0
+92,KIR,Kiribati,136.0
+93,KNA,Saint Kitts and Nevis,75.0
+94,KOR,South Korea,19.0
+95,KWT,Kuwait,50.0
+96,LAO,Lao,140.0
+97,LBN,Lebanon,112.0
+98,LBR,Liberia,178.0
+99,LBY,Libya,104.0
+100,LCA,Saint Lucia,106.0
+101,LIE,Liechtenstein,16.0
+102,LKA,Sri Lanka,73.0
+103,LSO,Lesotho,168.0
+104,LTU,Lithuania,35.0
+105,LUX,Luxembourg,17.0
+106,LVA,Latvia,39.0
+107,MAR,Morocco,123.0
+108,MCO,Monaco,
+109,MDA,Moldova,80.0
+110,MDG,Madagascar,173.0
+111,MDV,Maldives,90.0
+112,MEX,Mexico,86.0
+113,MHL,Marshall Islands,131.0
+114,MKD,North Macedonia,78.0
+115,MLI,Mali,186.0
+116,MLT,Malta,23.0
+117,MMR,Myanmar,149.0
+118,MNE,Montenegro,49.0
+119,MNG,Mongolia,96.0
+120,MOZ,Mozambique,185.0
+121,MRT,Mauritania,158.0
+122,MUS,Mauritius,63.0
+123,MWI,Malawi,169.0
+124,MYS,Malaysia,62.0
+125,NAM,Namibia,139.0
+126,NER,Niger,189.0
+127,NGA,Nigeria,163.0
+128,NIC,Nicaragua,126.0
+129,NLD,Netherlands,10.0
+130,NOR,Norway,2.0
+131,NPL,Nepal,143.0
+132,NRU,Nauru,
+133,NZL,New Zealand,13.0
+134,OMN,Oman,54.0
+135,PAK,Pakistan,161.0
+136,PAN,Panama,61.0
+137,PER,Peru,84.0
+138,PHL,Philippines,116.0
+139,PLW,Palau,80.0
+140,PNG,Papua New Guinea,156.0
+141,POL,Poland,34.0
+142,PRK,North Korea,
+143,PRT,Portugal,38.0
+144,PRY,Paraguay,105.0
+145,PSE,"Palestine, State of",106.0
+146,QAT,Qatar,42.0
+147,ROU,Romania,53.0
+148,RUS,Russian Federation,52.0
+149,RWA,Rwanda,165.0
+150,SAU,Saudi Arabia,35.0
+151,SDN,Sudan,172.0
+152,SEN,Senegal,170.0
+153,SGP,Singapore,12.0
+154,SLB,Solomon Islands,155.0
+155,SLE,Sierra Leone,181.0
+156,SLV,El Salvador,125.0
+157,SMR,San Marino,44.0
+158,SOM,Somalia,
+159,SRB,Serbia,63.0
+160,SSD,South Sudan,191.0
+161,STP,Sao Tome and Principe,138.0
+162,SUR,Suriname,99.0
+163,SVK,Slovakia,45.0
+164,SVN,Slovenia,23.0
+165,SWE,Sweden,7.0
+166,SWZ,Eswatini,144.0
+167,SYC,Seychelles,72.0
+168,SYR,Syrian Arab Republic,150.0
+169,TCD,Chad,190.0
+170,TGO,Togo,162.0
+171,THA,Thailand,66.0
+172,TJK,Tajikistan,122.0
+173,TKM,Turkmenistan,91.0
+174,TLS,Timor-Leste,140.0
+175,TON,Tonga,91.0
+176,TTO,Trinidad and Tobago,57.0
+177,TUN,Tunisia,97.0
+178,TUR,Turkey,48.0
+179,TUV,Tuvalu,130.0
+180,TZA,Tanzania,160.0
+181,UGA,Uganda,166.0
+182,UKR,Ukraine,77.0
+183,URY,Uruguay,58.0
+184,USA,United States,21.0
+185,UZB,Uzbekistan,101.0
+186,VCT,Saint Vincent and the Grenadines,89.0
+187,VEN,Venezuela,120.0
+188,VNM,Viet Nam,115.0
+189,VUT,Vanuatu,140.0
+190,WSM,Samoa,111.0
+191,YEM,Yemen,183.0
+192,ZAF,South Africa,109.0
+193,ZMB,Zambia,154.0
+194,ZWE,Zimbabwe,146.0

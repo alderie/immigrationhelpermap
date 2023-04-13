@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@300&family=Teko&family=Work+Sans:wght@400;600&display=swap');
+
+
+.banner {
+  position:fixed;
+  padding:40px;
+  user-select: none;
+  width:600px;
+  display:flex;
+}
+.logo {
+  font-family: 'Teko';
+  font-size:40px;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing:1px;
+}
+
+.footer {
+  z-index:999;
+  position:fixed;
+  bottom:0px;
+  font-size:10px;
+  width:300px;
+  color:rgba(10,10,10,0.7);
+  padding:40px;
+}

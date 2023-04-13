@@ -1,0 +1,38 @@
+.stat {
+    margin:10px;
+    position: relative;
+}
+.stat .label {
+    position:absolute;
+    left:50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Chivo Mono';
+}
+
+.stat .name {
+    text-align: center;
+    font-weight:bold;
+    color:#333;
+}
+
+.progress {
+    margin:0px;
+}
+
+.bg {
+  fill: none;
+  stroke-width: 5px;
+  stroke: #3d46c627;
+}
+
+[class^="meter-"] {
+  fill: none;
+  stroke-width: 5px;
+  stroke-linecap: round;
+  transform: rotate(-90deg);
+  transform-origin: 50% 50%;
+}
+
+.meter-1 {
+  stroke: #3D45C6;
+}
