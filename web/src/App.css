@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@300&family=Teko&family=Work+Sans:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200;400&family=Teko&family=Work+Sans:wght@400;600&display=swap');
 
 
 .banner {
@@ -20,7 +20,7 @@
   z-index:999;
   position:fixed;
   bottom:0px;
-  font-size:10px;
+  font-size:8px;
   width:300px;
   color:rgba(10,10,10,0.7);
   padding:40px;

@@ -3,7 +3,7 @@ import { CountryData, MapData } from "../../App";
 import Circle from "../Circle";
 import "./style.css";
 
-const countryData: CountryData = require("../../merged_data.json");
+const countryData: CountryData = require("../../data/merged_data.json");
 
 interface TooltipProps {
   x: number;
@@ -31,16 +31,19 @@ const Tooltip: React.FC<TooltipProps> = ({ x, y, data }) => {
           size={60}
           fillPercent={countryData[data.properties.ISO_A3]?.hdi_2021 ?? 0}
           label="HDI"
+          largeBetter={true}
         ></Circle>
         <Circle
           size={60}
           fillPercent={1 - countryData[data.properties.ISO_A3]?.cost_of_living ?? 0}
           label="Cost of Living"
+          largeBetter={true}
         ></Circle>
         <Circle
           size={60}
           fillPercent={1 - countryData[data.properties.ISO_A3]?.rent_index ?? 0}
           label="Rent Cost"
+          largeBetter={true}
         ></Circle>
       </div>
       <div className="info">

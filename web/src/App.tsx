@@ -30,7 +30,7 @@ export type CountryData = Record<
   }
 >;
 
-const countryData: CountryData = require("./merged_data.json");
+const countryData: CountryData = require("./data/merged_data.json");
 
 type GeoData = {
   type: string;
@@ -86,7 +86,7 @@ function App() {
     "https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json";
 
   const onCountrySelect = (evt: PickingInfo) => {
-    const coordinates = (evt.object as MapData).geometry.coordinates.flat(2);
+    /*const coordinates = (evt.object as MapData).geometry.coordinates.flat(2);
     const constraints = coordinates.reduce<BoundingBox>(
       (acc, val) => {
         return [
@@ -97,15 +97,7 @@ function App() {
         ];
       },
       [Infinity, -Infinity, Infinity, -Infinity]
-    );
-
-    console.log(constraints);
-
-    /*setViewState((view) => ({
-      ...view,
-      longitude: constraints[1],
-      latitude: constraints[3],
-    }))*/
+    );*/
   };
 
   const layers: LayersList = [

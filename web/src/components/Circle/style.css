@@ -6,7 +6,7 @@
     position:absolute;
     left:50%;
     transform: translate(-50%, -50%);
-    font-family: 'Chivo Mono';
+    font-family: 'Jetbrains Mono';
 }
 
 .stat .name {
@@ -31,8 +31,4 @@
   stroke-linecap: round;
   transform: rotate(-90deg);
   transform-origin: 50% 50%;
-}
-
-.meter-1 {
-  stroke: #3D45C6;
 }
